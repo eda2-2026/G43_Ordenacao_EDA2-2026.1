@@ -62,3 +62,4 @@ Acesse a plataforma LeetCode, pesquise o número do exercicio, insira o código 
 
 ## Link da Apresentação
 
+[Link](https://youtu.be/f-s0QcqFQVU)
